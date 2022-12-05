@@ -1,0 +1,8 @@
+D:\R52\M2\Projects\6\Ex_03_Project_1270466\RepositoryPattern_Factory\bin\Debug\RepositoryPattern_Factory.exe.config
+D:\R52\M2\Projects\6\Ex_03_Project_1270466\RepositoryPattern_Factory\bin\Debug\RepositoryPattern_Factory.exe
+D:\R52\M2\Projects\6\Ex_03_Project_1270466\RepositoryPattern_Factory\bin\Debug\RepositoryPattern_Factory.pdb
+D:\R52\M2\Projects\6\Ex_03_Project_1270466\RepositoryPattern_Factory\obj\Debug\RepositoryPattern_Factory.csproj.AssemblyReference.cache
+D:\R52\M2\Projects\6\Ex_03_Project_1270466\RepositoryPattern_Factory\obj\Debug\RepositoryPattern_Factory.csproj.SuggestedBindingRedirects.cache
+D:\R52\M2\Projects\6\Ex_03_Project_1270466\RepositoryPattern_Factory\obj\Debug\RepositoryPattern_Factory.csproj.CoreCompileInputs.cache
+D:\R52\M2\Projects\6\Ex_03_Project_1270466\RepositoryPattern_Factory\obj\Debug\RepositoryPattern_Factory.exe
+D:\R52\M2\Projects\6\Ex_03_Project_1270466\RepositoryPattern_Factory\obj\Debug\RepositoryPattern_Factory.pdb
